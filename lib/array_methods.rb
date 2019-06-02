@@ -3,8 +3,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
- sorted_cats = famous_cats.sort
- return sorted_cats
+ sorted_array = array.sort
+ return sorted_array
 end
 
 def using_reverse(array)
